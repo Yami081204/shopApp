@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">Minh họa chân váy</title>
+  <rect width="800" height="1000" fill="#f3f0e9"/>
+  <ellipse cx="400" cy="850" rx="245" ry="38" fill="#ded8cc"/>
+  <path d="M300 190h200l18 62H282z" fill="#403a36"/>
+  <path d="m282 252 236 0 145 510H137z" fill="#a96f58"/>
+  <path d="M282 252h236M246 380h308M210 510h380M174 640h452" fill="none" stroke="#c58e74" stroke-width="9" opacity=".8"/>
+  <path d="M400 252v510M282 252l-90 510M518 252l90 510" fill="none" stroke="#8f5847" stroke-width="7" opacity=".65"/>
+  <text x="400" y="945" text-anchor="middle" fill="#5b554c" font-family="Arial,sans-serif" font-size="24" letter-spacing="5">CHÂN VÁY</text>
+</svg>

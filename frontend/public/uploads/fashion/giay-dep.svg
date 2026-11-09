@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">Minh họa giày dép</title>
+  <rect width="800" height="1000" fill="#f3f0e9"/>
+  <ellipse cx="400" cy="770" rx="300" ry="42" fill="#ded8cc"/>
+  <path d="M170 570c60-18 104-100 132-210 56 52 114 125 185 157l132 58c52 23 85 61 85 104v42H150c-47 0-68-34-52-71 12-29 36-63 72-80z" fill="#e9e5dc" stroke="#b9b1a3" stroke-width="10"/>
+  <path d="M148 704h548c10 0 18 8 18 18v38H142v-38c0-10 2-18 6-18z" fill="#89949a"/>
+  <path d="M332 431 430 544M390 467l-42 70M438 500l-38 58M486 525l-30 47" fill="none" stroke="#78858c" stroke-width="14" stroke-linecap="round"/>
+  <path d="M531 585c48 12 86 31 116 52" fill="none" stroke="#b9b1a3" stroke-width="10"/>
+  <text x="400" y="900" text-anchor="middle" fill="#5b554c" font-family="Arial,sans-serif" font-size="24" letter-spacing="5">GIÀY DÉP</text>
+</svg>

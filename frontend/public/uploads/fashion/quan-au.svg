@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">Minh họa quần âu</title>
+  <rect width="800" height="1000" fill="#f3f0e9"/>
+  <ellipse cx="400" cy="850" rx="230" ry="38" fill="#ded8cc"/>
+  <path d="M260 180h280l40 575H430l-30-330-30 330H220z" fill="#454b50"/>
+  <path d="M260 180h280l5 65H255z" fill="#383e43"/>
+  <path d="M400 245v180M280 270l-20 260M520 270l20 260" fill="none" stroke="#73797c" stroke-width="7"/>
+  <path d="M298 290h56v85M446 290h56v85M260 755h170M430 755h150" fill="none" stroke="#343a3e" stroke-width="10"/>
+  <path d="M360 180v65M440 180v65" stroke="#aaa28e" stroke-width="7"/>
+  <text x="400" y="945" text-anchor="middle" fill="#5b554c" font-family="Arial,sans-serif" font-size="24" letter-spacing="5">QUẦN ÂU</text>
+</svg>

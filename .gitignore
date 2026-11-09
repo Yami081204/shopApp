@@ -1,0 +1,21 @@
+﻿# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Runtime uploads and logs
+backend/uploads/avatars/
+*.log
+npm-debug.log*
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

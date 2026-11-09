@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">Minh họa áo polo</title>
+  <rect width="800" height="1000" fill="#f3f0e9"/>
+  <ellipse cx="400" cy="850" rx="230" ry="38" fill="#ded8cc"/>
+  <path d="M288 195 350 155h100l62 40 112 74-65 105-61-38v437H302V336l-61 38-65-105z" fill="#263746"/>
+  <path d="m350 155 50 62 50-62-23 160h-54z" fill="#f7f5ef"/>
+  <path d="m350 155 50 62-48 61-47-83zM450 155l-50 62 48 61 47-83z" fill="#344b5d"/>
+  <path d="M400 217v185" stroke="#f7f5ef" stroke-width="8"/>
+  <circle cx="414" cy="258" r="5" fill="#d6c6a5"/>
+  <circle cx="414" cy="292" r="5" fill="#d6c6a5"/>
+  <circle cx="414" cy="326" r="5" fill="#d6c6a5"/>
+  <path d="M302 465h72v74h-72z" fill="none" stroke="#40586a" stroke-width="8"/>
+  <text x="400" y="945" text-anchor="middle" fill="#5b554c" font-family="Arial,sans-serif" font-size="24" letter-spacing="5">ÁO POLO</text>
+</svg>

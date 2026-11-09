@@ -1,0 +1,5 @@
+Selected catalog photographs downloaded from Unsplash and stored locally for the demo catalog.
+Source: https://images.unsplash.com/
+License: https://unsplash.com/license
+Product-specific photos are mapped to catalog items in backend/scripts/seed-fashion-products.js.
+The category illustrations are original local SVG artwork created for this project.

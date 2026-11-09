@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">Minh họa túi xách</title>
+  <rect width="800" height="1000" fill="#f3f0e9"/>
+  <ellipse cx="400" cy="820" rx="230" ry="38" fill="#ded8cc"/>
+  <path d="M250 370h300l54 390H196z" fill="#9b7357"/>
+  <path d="M310 390v-90c0-64 39-108 90-108s90 44 90 108v90" fill="none" stroke="#76563f" stroke-width="30"/>
+  <path d="M250 420h300" stroke="#c39b77" stroke-width="10"/>
+  <path d="M355 548h90" stroke="#76563f" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="400" cy="606" r="10" fill="#d9c2a8"/>
+  <text x="400" y="920" text-anchor="middle" fill="#5b554c" font-family="Arial,sans-serif" font-size="24" letter-spacing="5">TÚI XÁCH</text>
+</svg>

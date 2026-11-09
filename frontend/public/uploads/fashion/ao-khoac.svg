@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">Minh họa áo khoác</title>
+  <rect width="800" height="1000" fill="#f3f0e9"/>
+  <ellipse cx="400" cy="850" rx="240" ry="38" fill="#ded8cc"/>
+  <path d="m295 180 65-35h80l65 35 112 85-65 115-68-42v430H316V338l-68 42-65-115z" fill="#4a514b"/>
+  <path d="m360 145 40 95 40-95 45 68-61 112h-48l-61-112z" fill="#626a62"/>
+  <path d="M400 240v493M317 340l-40 105M483 340l40 105" fill="none" stroke="#d3c7b2" stroke-width="8"/>
+  <path d="M329 470h59M412 470h59M329 585h59M412 585h59" stroke="#353c37" stroke-width="8"/>
+  <circle cx="412" cy="310" r="6" fill="#d3c7b2"/>
+  <circle cx="412" cy="365" r="6" fill="#d3c7b2"/>
+  <circle cx="412" cy="420" r="6" fill="#d3c7b2"/>
+  <text x="400" y="945" text-anchor="middle" fill="#5b554c" font-family="Arial,sans-serif" font-size="24" letter-spacing="5">ÁO KHOÁC</text>
+</svg>

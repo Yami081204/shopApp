@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">Minh họa quần jeans</title>
+  <rect width="800" height="1000" fill="#f3f0e9"/>
+  <ellipse cx="400" cy="850" rx="230" ry="38" fill="#ded8cc"/>
+  <path d="M260 180h280l40 575H430l-30-330-30 330H220z" fill="#58748a"/>
+  <path d="M260 180h280l5 65H255z" fill="#46647b"/>
+  <path d="M400 245v180M265 260l-20 240M535 260l20 240" fill="none" stroke="#9eb1bf" stroke-width="8"/>
+  <path d="M298 290h60v85M442 290h60v85M260 755h170M430 755h150" fill="none" stroke="#334f66" stroke-width="10"/>
+  <path d="M360 180v65M440 180v65" stroke="#c6a877" stroke-width="8"/>
+  <text x="400" y="945" text-anchor="middle" fill="#5b554c" font-family="Arial,sans-serif" font-size="24" letter-spacing="5">QUẦN JEANS</text>
+</svg>
